@@ -52,13 +52,15 @@ Procedure for Load test:
 Tabulation for Open Circuit Test
 
 
-<img width="166" height="132" alt="Screenshot 2025-09-15 141700" src="https://github.com/user-attachments/assets/2b900802-eb24-454e-95d5-d4dd39142e66" />
+![WhatsApp Image 2025-09-23 at 13 14 25_275bf625](https://github.com/user-attachments/assets/a20a551b-5f7a-431f-9f30-9d828b9b8a74)
+
 
 Tabulation for Load Test:
 
 
+![WhatsApp Image 2025-09-23 at 13 13 58_1a3f6237](https://github.com/user-attachments/assets/71ce99d9-da6a-40a7-8991-40a428726eee)
 
-<img width="128" height="116" alt="Screenshot 2025-09-15 141708" src="https://github.com/user-attachments/assets/0e1d044b-e8cb-4d6a-bba2-b2685573e740" />
+
 
 
 Model graph:
